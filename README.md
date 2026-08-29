@@ -1,3 +1,6 @@
+# AI Portfolio
+Student: Jim  
+GitHub: jim4004  
 # H1N1 Vaccine Usage Prediction
 
 Portfolio project for a Python AI class.
