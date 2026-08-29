@@ -1,0 +1,19 @@
+H1N1 Vaccine Prediction — Logistic Regression
+Accuracy : 0.8034
+Precision: 0.5303
+Recall   : 0.6546
+F1 Score : 0.5860
+ROC-AUC  : 0.8268
+
+Confusion matrix [[TN FP][FN TP]]:
+[[3549  658]
+ [ 392  743]]
+
+              precision    recall  f1-score   support
+
+           0     0.9005    0.8436    0.8711      4207
+           1     0.5303    0.6546    0.5860      1135
+
+    accuracy                         0.8034      5342
+   macro avg     0.7154    0.7491    0.7285      5342
+weighted avg     0.8219    0.8034    0.8105      5342

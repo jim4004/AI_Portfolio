@@ -1,0 +1,49 @@
+,coefficient
+has_health_insur_missing,-2.2937018902438964
+dr_recc_h1n1_vacc,2.2582025103319783
+race_White,1.8056136322555107
+race_Hispanic,1.7217022602920296
+race_Other or Multiple,1.5844398604672754
+age_bracket_65+ Years,1.5523106170475671
+age_bracket_55 - 64 Years,1.4020636355722451
+qualification_Unknown,1.2892306966403533
+is_health_worker,1.212899667978161
+qualification_College Graduate,1.117551718456601
+age_bracket_45 - 54 Years,1.0824935498506425
+has_health_insur,1.0595441636609333
+employment_Unknown,0.9827884808681678
+age_bracket_35 - 44 Years,0.9610318193604442
+qualification_Some College,0.9516172070220074
+dr_recc_seasonal_vacc,-0.6995845768681558
+census_msa_Non-MSA,0.6923423320846072
+sex_Male,0.6347891170497812
+"census_msa_MSA, Principle City",0.6260165797104358
+employment_Unemployed,0.607381592471835
+is_h1n1_vacc_effective,0.5840295005008792
+income_level_Unknown,0.5724208812316028
+"income_level_> $75,000",0.5721198847327057
+employment_Not in Labor Force,0.5355727900290537
+qualification_< 12 Years,0.5007976202943384
+is_h1n1_risky,0.48813029730719293
+cont_child_undr_6_mnths,0.46053082459576467
+housing_status_Unknown,0.4419849436906561
+housing_status_Rent,0.42561305087634876
+marital_status_Unknown,0.41321509737418366
+income_level_Below Poverty,0.41047165875956987
+wash_hands_frequently,0.313063782574431
+marital_status_Not Married,0.26312671855870307
+avoid_large_gatherings,-0.24139160752035255
+h1n1_awareness,0.19713717825857202
+bought_face_mask,0.18109310681542587
+no_of_adults,0.169876564900568
+sick_from_seas_vacc,-0.12237333674771618
+is_seas_vacc_effective,0.12111659494032367
+is_seas_risky,0.11977167751426551
+avoid_touch_face,0.0718857523953902
+contact_avoidance,0.06259118399743474
+antiviral_medication,0.058890269510514126
+no_of_children,0.048668310069996265
+h1n1_worry,0.046212514078949496
+chronic_medic_condition,-0.02312786988019932
+reduced_outside_home_cont,-0.014291807823450357
+sick_from_h1n1_vacc,-0.005688418292479931
