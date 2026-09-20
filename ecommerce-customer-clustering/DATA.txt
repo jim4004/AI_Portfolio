@@ -1,6 +1,17 @@
-Place ecommerce_customer_clustering_12000.csv in this folder.
+The full class file is ecommerce_customer_clustering_12000.csv (~1.4 MB, 12,000 rows).
 
-The class file is ~1.4 MB (12,000 rows). Keep it next to ecommerce_customer_clustering.ipynb.
+This GitHub connection can only push small text files, so the CSV has to be uploaded from your laptop.
+
+Do this (about 20 seconds):
+
+1. Open:
+   https://github.com/jim4004/AI_Portfolio/upload/main/ecommerce-customer-clustering
+2. Drag ecommerce_customer_clustering_12000.csv onto the page
+3. Commit message: Add ecommerce clustering dataset
+4. Commit changes
+
+Keep the filename exactly:
+  ecommerce_customer_clustering_12000.csv
+
 The notebook reads:
-
-    df = pd.read_csv("ecommerce_customer_clustering_12000.csv")
+  df = pd.read_csv("ecommerce_customer_clustering_12000.csv")
