@@ -1,0 +1,6 @@
+Place ecommerce_customer_clustering_12000.csv in this folder.
+
+The class file is ~1.4 MB (12,000 rows). Keep it next to ecommerce_customer_clustering.ipynb.
+The notebook reads:
+
+    df = pd.read_csv("ecommerce_customer_clustering_12000.csv")
