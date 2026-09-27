@@ -1,0 +1,42 @@
+START HERE — AI Class portfolio
+================================
+
+This folder is the class portfolio. Two assignments live inside it.
+
+  AI_Portfolio
+    h1n1-vaccine-prediction/          logistic regression
+    ecommerce-customer-clustering/    K-Means clustering
+
+GitHub (already one repo):
+  https://github.com/jim4004/AI_Portfolio
+
+
+A) RUN H1N1 ON YOUR PC
+----------------------
+1. CSV must sit at:
+     h1n1-vaccine-prediction\data\h1n1_vaccine_prediction.csv
+2. Anaconda Prompt:
+     cd path\to\AI_Portfolio\h1n1-vaccine-prediction
+     python -m pip install -r requirements.txt
+     python h1n1_vaccine_prediction.py
+
+
+B) RUN ECOMMERCE CLUSTERING
+---------------------------
+1. CSV must sit next to the notebook:
+     ecommerce-customer-clustering\ecommerce_customer_clustering_12000.csv
+2. Anaconda Prompt:
+     cd path\to\AI_Portfolio\ecommerce-customer-clustering
+     python -m pip install -r requirements.txt
+     jupyter notebook ecommerce_customer_clustering.ipynb
+
+
+C) GITHUB
+---------
+Same repo for both projects. Do not create a second repository.
+
+  https://github.com/jim4004/AI_Portfolio/tree/main/h1n1-vaccine-prediction
+  https://github.com/jim4004/AI_Portfolio/tree/main/ecommerce-customer-clustering
+
+To add the 1.4 MB ecommerce CSV (optional):
+  https://github.com/jim4004/AI_Portfolio/upload/main/ecommerce-customer-clustering
