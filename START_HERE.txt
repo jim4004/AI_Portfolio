@@ -1,11 +1,12 @@
 START HERE — AI Class portfolio
 ================================
 
-This folder is the class portfolio. Two assignments live inside it.
+This folder is the class portfolio. Three assignments live inside it.
 
   AI_Portfolio
     h1n1-vaccine-prediction/          logistic regression
     ecommerce-customer-clustering/    K-Means clustering
+    travel-review-segmentation/       hierarchical clustering
 
 GitHub (already one repo):
   https://github.com/jim4004/AI_Portfolio
@@ -31,12 +32,23 @@ B) RUN ECOMMERCE CLUSTERING
      jupyter notebook ecommerce_customer_clustering.ipynb
 
 
-C) GITHUB
+C) RUN TRAVEL REVIEW SEGMENTATION
+---------------------------------
+1. CSV must sit next to the notebook:
+     travel-review-segmentation\google_review_ratings.csv
+2. Anaconda Prompt:
+     cd path\to\AI_Portfolio\travel-review-segmentation
+     python -m pip install -r requirements.txt
+     jupyter notebook travel_review_segmentation.ipynb
+
+
+D) GITHUB
 ---------
-Same repo for both projects. Do not create a second repository.
+Same repo for all projects. Do not create a second repository.
 
   https://github.com/jim4004/AI_Portfolio/tree/main/h1n1-vaccine-prediction
   https://github.com/jim4004/AI_Portfolio/tree/main/ecommerce-customer-clustering
+  https://github.com/jim4004/AI_Portfolio/tree/main/travel-review-segmentation
 
-To add the 1.4 MB ecommerce CSV (optional):
-  https://github.com/jim4004/AI_Portfolio/upload/main/ecommerce-customer-clustering
+To add the Google ratings CSV:
+  https://github.com/jim4004/AI_Portfolio/upload/main/travel-review-segmentation

@@ -1,0 +1,17 @@
+The class file is google_review_ratings.csv (~637 KB, 5,456 rows).
+
+This GitHub connection can only push small text files, so the CSV has to be uploaded from your laptop.
+
+Do this (about 20 seconds):
+
+1. Open:
+   https://github.com/jim4004/AI_Portfolio/upload/main/travel-review-segmentation
+2. Drag google_review_ratings.csv onto the page
+3. Commit message: Add Google review ratings dataset
+4. Commit changes
+
+Keep the filename exactly:
+  google_review_ratings.csv
+
+The notebook reads:
+  df = pd.read_csv("google_review_ratings.csv")
