@@ -1,0 +1,4 @@
+﻿.venv/
+cereal-pricing/data/*.csv
+cereal-pricing/data/*.zip
+.ipynb_checkpoints/
