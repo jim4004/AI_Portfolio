@@ -1,0 +1,31 @@
+review_id,review_text,sentiment,category
+1,"The shoes are comfortable and look exactly like the pictures.",Positive,Fashion
+2,"The app keeps crashing whenever I try to pay.",Negative,App
+3,"The food arrived hot but the portion was too small.",Negative,Food
+4,"Delivery was on time. The packaging was ordinary.",Neutral,Delivery
+5,"Customer support solved my issue within ten minutes. Great service!",Positive,Support
+6,"  This product is absolutely amazing!!   ",Positive,Electronics
+7,"Terrible quality. Broke after one day. Very disappointed.",Negative,Fashion
+8,"It's okay I guess. Nothing special.",Neutral,Food
+9,"I love this service. Will buy again.",Positive,App
+10,"The product arrived yesterday.",Neutral,Delivery
+11,"Worst purchase ever. Waste of money.",Negative,Electronics
+12,"Mixed feelings. Looks good but functions poorly.",Mixed,Fashion
+13,"Excellent quality and fast shipping.",Positive,Fashion
+14,"   Not what I expected. Returning it.  ",Negative,Electronics
+15,"The experience was terrible.",Negative,Support
+16,"I absolutely love this service.",Positive,App
+17,"Product quality is excellent.",Positive,Electronics
+18,"Delivery delayed by three days. Frustrating.",Negative,Delivery
+19,"Average product. Does the job.",Neutral,Food
+20,"Highly recommend! Best in class.",Positive,Fashion
+21,,Positive,App
+22,"Broken on arrival. Poor packaging.",Negative,Electronics
+23,"Great value for the price.",Positive,Fashion
+24,"Customer service was unhelpful and rude.",Negative,Support
+25,"It works fine but the design is outdated.",Mixed,Electronics
+26,"Fast delivery and perfect condition.",Positive,Delivery
+27,"Too expensive for what you get.",Negative,Food
+28,"  Love it! Exactly as described.  ",Positive,Fashion
+29,"Neutral experience overall.",Neutral,App
+30,"Would not buy again.",Negative,Electronics
